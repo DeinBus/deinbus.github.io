@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+html {
+    background: url(../img/db-bgkachel.gif);
+    font-family: 'Alegreya', serif;
+}
+
+a {
+    color: #025078;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#main {
+    width: 100%;
+    max-width: 750px;
+    background-color: #fff;
+}
+
+footer a {
+    color: #fabb00;
+}
+
+article {
+
+}
+
+article h1 {
+    margin: 0;
+    background: #025078 url(../img/bg-blau.png);
+    color: rgba(255, 255, 255, 0.95);
+    text-shadow: rgba(0, 0, 0, 0.85) 0px 1px 3px;
+    font-size: 1.5em;
+    padding: 10px 25px;
+}
+
+article h1 + h2 {
+    margin: 0;
+    background: #fabb00 url(../img/bg-gelb.png);
+    padding: 25px;
+}
+
+article h2 {
+    font-size: 1.25em;
+    padding: 0 25px;
+}
+
+article p {
+    margin: 25px 25px 0 25px;
+    line-height: 1.5em;
+}
+
+article p:last-child {
+    margin-bottom: 25px;
+}
+
+article p img {
+    width: 100%;
+}
+
+footer {
+    text-align: right;
+    background: #fabb00 url(../img/bg-blau.png);
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 0.875em;
+    padding: 25px;
+}
+
+footer img {
+    float: left;
+}
+
+footer h2 {
+    margin: 0;
+}
+
+/** Responsive Styles **/
+@media screen and (min-width: 480px) {
+    article p img {
+        width: auto;
+        float: right;
+        margin-left: 1em;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    #main {
+        border: 4px solid #ede9ce;
+        margin: 2em auto;
+    }
+}
