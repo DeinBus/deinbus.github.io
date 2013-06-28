@@ -18,4 +18,4 @@ Als Teil unseres Teams wirst Du Dich um den Aufbau und die Weiterentwicklung uns
 
 {% include outro.md %}
 
-_P.P.S.: Du bist noch nicht so weit? Wir suchen auch einen [Junior Backend-Entwickler / Absolvent (?/?)](/cooler)…_
+_P.P.S.: Du bist noch nicht so weit? Wir suchen auch einen [Junior Backend-Entwickler / Absolvent (♂/♀)](/cooler)…_
