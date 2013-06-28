@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Mach DeinBus.de cooler! – als Junior-Backend-Entwickler (?/?)
+title: Mach DeinBus.de cooler! – als Junior-Backend-Entwickler (♂/♀)
 job: Junior-Backend-Entwickler
 ---
 
 # mach.DeinBus.de/cooler
 
-## Junior Backend-Entwickler / Absolvent (?/?) zum Mitfahren gesucht!
+## Junior Backend-Entwickler / Absolvent (♂/♀) zum Mitfahren gesucht!
 
 {% include tldr.md %}
 
@@ -18,4 +18,4 @@ Als Teil unseres Teams wirst Du uns beim Aufbau und der Weiterentwicklung unsere
 
 {% include outro.md %}
 
-_P.P.S.: Mehr Erfahrung? Wir suchen auch einen [PHP-Backend-Entwickler (?/?)](/besser)…_
+_P.P.S.: Mehr Erfahrung? Wir suchen auch einen [PHP-Backend-Entwickler (♂/♀)](/besser)…_
