@@ -1,1 +1,1 @@
-_tl;dr> PHP5, Symfony2, TDD, Git, nachhaltiges Produkt, tolles junges Team, viel Gestaltungsspielraum, agile Entwicklung, freie Zeiteinteilung, arbeiten wo du willst und ordentliches Gehalt. [jobs@deinbus.de](mailto:jobs@deinbus.de?subject={{ page.job }})_
+_tl;dr> PHP5, Symfony2, TDD, Git, nachhaltiges Produkt, tolles junges Team, viel Gestaltungsspielraum, agile Entwicklung, freie Zeiteinteilung, arbeiten wo Du willst und ordentliches Gehalt. [jobs@deinbus.de](mailto:jobs@deinbus.de?subject={{ page.job }})_
