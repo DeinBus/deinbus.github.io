@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Mach DeinBus.de besser! – als PHP-Backend-Entwickler (?/?)
+title: Mach DeinBus.de besser! – als PHP-Backend-Entwickler (♂/♀)
 job: PHP-Backend-Entwickler
 ---
 
 # mach.DeinBus.de/besser
 
-## {{ page.job }} (?/?) zum Mitfahren gesucht!
+## {{ page.job }} (♂/♀) zum Mitfahren gesucht!
 
 {% include tldr.md %}
 
