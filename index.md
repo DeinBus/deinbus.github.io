@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DeinBus.de Jobs
+job: Entwickler
 ---
 
 # DeinBus.de Entwickler-Jobs
