@@ -21,21 +21,20 @@ a {
     background-color: #fff;
 }
 
-footer a {
+footer a, article blockquote a {
     color: #fabb00;
-}
-
-article {
-
 }
 
 article h1 {
     margin: 0;
     background: #025078 url(../img/bg-blau.png);
-    color: rgba(255, 255, 255, 0.95);
-    text-shadow: rgba(0, 0, 0, 0.85) 0px 1px 3px;
     font-size: 1.5em;
     padding: 10px 25px;
+}
+
+article h1, article blockquote {
+    color: rgba(255, 255, 255, 0.95);
+    text-shadow: rgba(0, 0, 0, 0.85) 0px 1px 3px;
 }
 
 article h1 + h2 {
@@ -62,7 +61,24 @@ article p img {
     width: 100%;
 }
 
+article blockquote {
+    margin: 0;
+    font-size: 115%;
+    border-bottom: 4px dotted #ede9ce;
+    background: #025078 url(../img/bg-blau.png);
+    padding-top: 25px;
+}
+
+article blockquote a {
+
+}
+
+article blockquote p:first-child {
+    margin-top: 0;
+}
+
 footer {
+    border-top: 4px dotted #ede9ce;
     text-align: right;
     background: #fabb00 url(../img/bg-blau.png);
     color: rgba(255, 255, 255, 0.75);
