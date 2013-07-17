@@ -2,9 +2,10 @@
 layout: default
 title: Mach DeinBus.de besser! – als PHP-Backend-Entwickler (♂/♀)
 job: PHP-Backend-Entwickler
+vanity_url: mach.DeinBus.de/besser
 ---
 
-# mach.DeinBus.de/besser
+# {{ page.vanity_url }}
 
 ## {{ page.job }} (♂/♀) zum Mitfahren gesucht!
 

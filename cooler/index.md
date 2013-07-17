@@ -2,9 +2,10 @@
 layout: default
 title: Mach DeinBus.de cooler! – als Junior-Backend-Entwickler (♂/♀)
 job: Junior-Backend-Entwickler
+vanity_url: mach.DeinBus.de/cooler
 ---
 
-# mach.DeinBus.de/cooler
+# {{ page.vanity_url }}
 
 ## Junior Backend-Entwickler / Absolvent (♂/♀) zum Mitfahren gesucht!
 

@@ -2,6 +2,7 @@
 layout: default
 title: DeinBus.de Jobs
 job: Entwickler
+vanity_url: mach.DeinBus.de
 ---
 
 # DeinBus.de Entwickler-Jobs
